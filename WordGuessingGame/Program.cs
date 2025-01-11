@@ -48,6 +48,6 @@ for (int Gues = 0; Gues < num_Guessing; Gues++)
 }
 if (conter_Gues == num_Guessing && spaces != the_word)
 {
-    Console.WriteLine("\n you lost... number of attempts has expired!. \n");
+    Console.WriteLine("\n You Lost... Number of Attempts has Expired!. \n");
     Console.WriteLine("\n GOOD BYE..\n");
 }
